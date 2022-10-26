@@ -2,7 +2,6 @@ from cProfile import label
 from tkinter import *
 
 #°C = (°F - 32) ÷ 1,8
-
 #-------------------------------------------------------------
 # GUI
 
