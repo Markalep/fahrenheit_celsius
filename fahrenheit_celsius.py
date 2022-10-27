@@ -31,8 +31,8 @@ label_resultado = Label(root, textvariable=final)
 
 label1.grid()
 textbox1.grid()
-btn.grid()
+btn.grid(sticky='E')
 label_resultado.grid()
-
+root.geometry('500x300+400+300')
 
 root.mainloop()
